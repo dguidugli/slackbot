@@ -1,7 +1,7 @@
 #para iniciar mensagem ao usuário pelo slack
 #para funcionar precisa estar instalado antes o client do slack pelo terminal "pip install slackclient"
 #commit realizado pelo jupyter notebook
-#abrir o jupyter notebook pelo terminal linux
+#abrir o jupyter notebook pelo terminal
 
 import slack
 
